@@ -1,0 +1,6 @@
+GET localhost:8084/purchase?rollback=false&count=1
+
+###
+GET localhost:8084/purchase?rollback=true&count=1
+
+
